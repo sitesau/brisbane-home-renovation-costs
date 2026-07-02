@@ -1,0 +1,10 @@
+{
+  "wheel_id": 68,
+  "slug": "brisbanerenovation-150",
+  "project": "brisbane-home-renovation-costs",
+  "parent_t1_ref": "brisbanerenovation-001",
+  "money_target": "brisbanerenovation.com.au",
+  "primary_kw": "brisbane home renovation costs",
+  "intended_url": "https://sitesau.github.io/brisbane-home-renovation-costs/",
+  "links": [{"target_url":"https://brisbane-renovation-guide.netlify.app","anchor":"renovation builders in Brisbane","rel":"follow"}]
+}
