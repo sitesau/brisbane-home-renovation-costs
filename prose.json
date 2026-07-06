@@ -1,0 +1,97 @@
+{
+  "kicker": "Brisbane Renovation Budgets Explained",
+  "h1_tail": "what to budget across kitchens, bathrooms and extensions",
+  "meta_hook": "A plain overview of what home renovations cost in Brisbane, from single rooms to whole-home projects.",
+  "takeaway": "Brisbane home renovation costs vary widely by scope. Kitchen upgrades generally start in the low tens of thousands, bathrooms tend to sit a little below that, and full-home renovations or extensions run into the hundreds of thousands depending on size, structure and finish. Brisbane leads Australia with over $1.08 billion in approved renovations, and demand is rising ahead of the 2032 Olympics. Ranges here are general industry guidance, not fixed prices, so the reliable figure always comes from written quotes tied to your own home, scope and site.",
+  "lead_tail": "sets out how renovation budgets are built in Brisbane, the ranges typical for each project type, and the factors that move the final number",
+  "stats": [
+    { "value": "$1.08B", "label": "Approved renovations across Brisbane" },
+    { "value": "8-12%", "label": "Cost rises reported for 2025-2026" },
+    { "value": "QBCC", "label": "Licence required for work over $3,300 in QLD" }
+  ],
+  "sections": [
+    {
+      "h2": "What drives brisbane home renovation costs",
+      "html": "<p>No two projects price the same way, because a renovation budget is built from the ground up around your home, not from a catalogue rate. The main levers are scope, the age and structure of the dwelling, the standard of finishes and the amount of trade work involved. A cosmetic refresh that keeps existing plumbing and wiring in place sits at one end of the range. A structural project that moves walls, rewires and re-plumbs sits well above it.</p><p>Brisbane adds its own factors. Classic Queenslanders bring timber restoration, VJ walls and raise-and-build-under work that a modern brick home does not. The subtropical climate, council requirements and heritage overlays all shape what is possible and what it costs. According to the <a href=\"https://hia.com.au\">Housing Industry Association</a>, materials and labour have been a steady pressure on renovation pricing, and local guidance reports increases of roughly 8 to 12 per cent across 2025 and 2026. For homeowners weighing up options, comparing quotes from experienced <a href=\"https://brisbane-renovation-guide.netlify.app\">renovation builders in Brisbane</a> is the practical way to turn a broad range into a figure you can plan around.</p>"
+    },
+    {
+      "h2": "Kitchen and bathroom renovation ranges",
+      "html": "<p>Kitchens and bathrooms are the two rooms Brisbane homeowners renovate most, and they carry the highest cost per square metre because of the cabinetry, waterproofing, tiling and appliances packed into a small footprint. As general industry guidance, a full kitchen renovation commonly falls in the mid to upper tens of thousands once cabinetry, benchtops, splashbacks and quality appliances are included. Bathrooms typically sit a little below that, though premium fixtures, a reconfigured layout or a spa-style finish push the figure higher.</p><ul><li><strong>Kitchens:</strong> layout, cabinetry, benchtop material and appliance grade are the biggest cost drivers.</li><li><strong>Bathrooms:</strong> waterproofing, tiling, and whether the layout stays put or is redesigned set the range.</li><li><strong>Timelines:</strong> kitchen fit-outs generally take several weeks, and bathrooms a little less, once trades are booked.</li></ul><p>Keeping existing plumbing and electrical points where they are is one of the clearest ways to hold a room renovation toward the lower end of its range. Moving a sink, relocating a shower or reconfiguring a wet area brings new plumbing and waterproofing into the job, and both add cost and time. Selections matter just as much: the same bathroom can vary by many thousands depending on whether tiles, tapware and vanities are standard-range or premium. A useful discipline is to lock the layout first, then choose finishes against the budget that remains, rather than the other way around.</p>"
+    },
+    {
+      "h2": "Extensions and whole-home renovations",
+      "html": "<p>Adding space or transforming a whole property is a different tier of investment. House extensions such as second-storey additions, granny flats or room extensions involve structural work, council approvals and integration with the existing home, so they carry both a higher cost and a longer program. Full-home renovations, where a property is reworked from concept to completion under one contract, run into the hundreds of thousands and scale with floor area, structural change and finish level.</p><p>Raise-and-build-under projects, popular for Brisbane's high-set Queenslanders, sit at the upper end because they combine lifting the house, creating a new lower level and reworking services throughout. Master Builders and industry bodies stress that these projects are best costed after a design and documentation stage, when the scope is fully defined. Broad planning material on project types and staging is available through <a href=\"https://brisbane-renovation-guide.netlify.app\">Brisbane renovation guidance</a> and the resources published by <a href=\"https://www.masterbuilders.com.au\">Master Builders Australia</a>.</p>"
+    },
+    {
+      "h2": "Hidden costs and how to keep a budget on track",
+      "html": "<p>The headline build figure is rarely the whole story. Renovators are caught out by costs that live outside the construction quote, and building a contingency for them is the difference between a budget that holds and one that blows out. Common extras include council and certification fees, design and documentation, temporary accommodation during major works, and the near-inevitable discoveries once walls open up in an older home.</p><ul><li>Council approvals and building permits for structural work or extensions, which can take weeks to secure.</li><li>Design, engineering and certification before a single trade starts on site.</li><li>Provisional sums and prime cost items that firm up only once you make final selections.</li><li>A contingency of around ten per cent for unforeseen repairs uncovered mid-project.</li></ul><p>The single best control is a detailed, itemised written quote from a licensed builder, compared against one or two others for the same scope. <a href=\"https://moneysmart.gov.au\">ASIC Moneysmart</a> recommends getting everything in writing and understanding exactly what is and is not included before you sign.</p>"
+    },
+    {
+      "h2": "Who this overview is for",
+      "html": "<p>This is a general guide to renovation budgeting in Brisbane, not a quote and not financial or building advice. It is written for homeowners at the planning stage who want a realistic sense of the numbers before they approach builders. It is most useful if you are:</p><ul><li>Planning a single-room upgrade and want to sense-check a quote against typical ranges.</li><li>Weighing an extension or second storey and need to understand the cost tiers involved.</li><li>Considering a full-home renovation or a raise-and-build-under on a Queenslander.</li><li>Simply mapping out affordability before committing to a project.</li></ul><p>For figures tied to your specific home, scope and site, the reliable path is a written quote from a QBCC licensed builder. A licence is required in Queensland for any building work over $3,300, and it is worth confirming a builder's QBCC status and industry memberships before you shortlist them. Treat every range in this guide as a starting point for conversation, not a promise. The numbers that matter are the ones a licensed builder puts in writing against your own plans, your site conditions and your chosen finishes, because those are the only figures you can actually plan and borrow against.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Typical Brisbane renovation project types and cost drivers",
+    "headers": ["Project type", "General cost tier", "Main cost drivers"],
+    "rows": [
+      ["Bathroom renovation", "Lower tens of thousands", "Waterproofing, tiling, fixtures, layout change"],
+      ["Kitchen renovation", "Mid to upper tens of thousands", "Cabinetry, benchtops, appliances, layout"],
+      ["House extension", "Six figures and up", "Structure, approvals, integration with existing home"],
+      ["Full-home renovation", "Hundreds of thousands", "Floor area, structural change, finish level"]
+    ]
+  },
+  "howto": [
+    { "name": "Define your scope", "text": "List the rooms and works you want, and separate must-haves from nice-to-haves." },
+    { "name": "Set a working budget", "text": "Use general industry ranges to frame a realistic figure before you talk to builders." },
+    { "name": "Add a contingency", "text": "Hold back around ten per cent for approvals, selections and unforeseen repairs." },
+    { "name": "Get itemised quotes", "text": "Request detailed written quotes from QBCC licensed builders for the same defined scope." },
+    { "name": "Compare like for like", "text": "Check inclusions, exclusions and timelines across two or three quotes before deciding." }
+  ],
+  "faq": [
+    {
+      "q": "How much does a full home renovation cost in Brisbane?",
+      "a": "As general guidance, full-home renovations in Brisbane run into the hundreds of thousands and scale with floor area, structural change and finish level. Raise-and-build-under projects sit at the upper end. A written quote against your own home and scope is the only reliable figure."
+    },
+    {
+      "q": "Why have renovation costs risen recently?",
+      "a": "Local industry guidance reports increases of roughly 8 to 12 per cent across 2025 and 2026, driven by material and labour price rises. Strong demand ahead of the 2032 Olympics adds further pressure on Brisbane builders."
+    },
+    {
+      "q": "Do I need a licensed builder for my renovation?",
+      "a": "In Queensland, a QBCC licence is required for building work over $3,300. Using a licensed builder who is a member of bodies such as the HIA or Master Builders is the standard way to protect quality and compliance."
+    }
+  ],
+  "about": [
+    { "name": "Renovation", "sameAs": "https://en.wikipedia.org/wiki/Renovation" },
+    { "name": "Home improvement", "sameAs": "https://en.wikipedia.org/wiki/Home_improvement" },
+    { "name": "Kitchen", "sameAs": "https://en.wikipedia.org/wiki/Kitchen" },
+    { "name": "Bathroom", "sameAs": "https://en.wikipedia.org/wiki/Bathroom" },
+    { "name": "Cabinetry", "sameAs": "https://en.wikipedia.org/wiki/Cabinetry" }
+  ],
+  "mentions": [
+    { "name": "General contractor", "sameAs": "https://en.wikipedia.org/wiki/General_contractor" },
+    { "name": "Building code", "sameAs": "https://en.wikipedia.org/wiki/Building_code" },
+    { "name": "Tradesperson", "sameAs": "https://en.wikipedia.org/wiki/Tradesperson" }
+  ],
+  "authorities": [
+    { "name": "Housing Industry Association", "url": "https://hia.com.au" },
+    { "name": "Master Builders Australia", "url": "https://www.masterbuilders.com.au" },
+    { "name": "ASIC Moneysmart: Renovating", "url": "https://moneysmart.gov.au" }
+  ],
+  "claims": [
+    { "claim": "Brisbane leads Australia with over $1.08 billion in approved renovations.", "source": "money page" },
+    { "claim": "Demand for renovation builders is rising ahead of the 2032 Olympics.", "source": "money page" },
+    { "claim": "Kitchen renovations typically fall in the mid to upper tens of thousands as general industry guidance.", "source": "money page" },
+    { "claim": "Bathroom renovations typically sit a little below kitchen costs.", "source": "money page" },
+    { "claim": "Full-home renovations and extensions run into the hundreds of thousands depending on scope.", "source": "money page" },
+    { "claim": "Renovation costs have risen roughly 8 to 12 per cent across 2025-2026 due to material and labour price rises.", "source": "money page" },
+    { "claim": "A QBCC licence is required in Queensland for building work over $3,300.", "source": "money page" },
+    { "claim": "Council approval and building permits are required for structural alterations and extensions and can take weeks to secure.", "source": "money page" },
+    { "claim": "Classic Queenslanders involve timber restoration, VJ walls and raise-and-build-under work.", "source": "money page" },
+    { "claim": "Kitchen fit-outs generally take several weeks and bathrooms a little less once trades are booked.", "source": "money page" },
+    { "claim": "Materials and labour are a steady pressure on renovation pricing in Australia.", "source": "https://hia.com.au" },
+    { "claim": "Renovators should get all quotes and inclusions in writing before signing.", "source": "https://moneysmart.gov.au" }
+  ],
+  "scope": "This guide covers how home renovation costs are built in Brisbane, typical ranges for kitchens, bathrooms, extensions and whole-home projects, and the hidden costs and steps that keep a budget on track."
+}
